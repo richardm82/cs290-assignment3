@@ -1,1 +1,7 @@
-You log goes in this  file.
+Start: Wed, 22 Jan 2015 10:42:26 -0800
+End: Wed, 22 Jan 2015 13:02:26 -0800
+Tasks: Downloaded and then watched lectures
+
+Start: Thur, 22 Jan 2015 10:55:00 -0800
+End: Thur, 22 Jan 2015 20:42:26 -0800
+Tasks: Did week 3 reading about JavaScript. Cloned GitHub repo for Assigment 3
